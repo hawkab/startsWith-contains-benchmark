@@ -1086,3 +1086,7 @@ Below you can see the results of the benchmark test and see for yourself.
 > ss        5   4060,000 ± 516,618   ns/op
 > 
 > Process finished with exit code 0
+
+[![Support this project · TON network](https://hawkab.github.io/support/support-button.svg)](https://hawkab.github.io/support/)
+
+Optional contributions support development, maintenance and testing. The [support page](https://hawkab.github.io/support/) has a QR code, wallet link and copy buttons, and works on computers and phones. You choose the amount in your wallet.
